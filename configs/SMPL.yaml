@@ -1,0 +1,9 @@
+source_data_path: "/home/kaist984/dataset/NeuralKeypoints/SMPL/upper_template"
+target_data_path: "/home/kaist984/dataset/NeuralKeypoints/SMPL/random_tet_target"
+log_dir: "log/SMPL_16"
+dump_dir: "dump/SMPL_16"
+num_keypoints: 16
+calc_w_method: "prefactor"
+eval_metric: "l2"
+seed: "2023"
+gpu: "4"

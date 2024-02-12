@@ -1,0 +1,9 @@
+source_data_path: "/home/kaist984/dataset/NeuralKeypoints/SMAL/smal_source_tetmesh/fox/"
+target_data_path: "/home/kaist984/dataset/NeuralKeypoints/SMAL/smal_target_tetmesh/fox/"
+log_dir: "log/SMAL_16_fox"
+dump_dir: "dump/SMAL_16_fox"
+num_keypoints: 16
+calc_w_method: "prefactor"
+eval_metric: "l2"
+seed: "2023"
+gpu: "0"
