@@ -137,5 +137,4 @@ dmypy.json
 /dump
 /log
 /vis
-*.png
 /wandb
